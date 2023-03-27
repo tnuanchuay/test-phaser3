@@ -1,5 +1,5 @@
 import { Types, Game } from 'phaser'
-import { SceneA } from './scene';
+import { SceneA } from './scenes/demo';
 
 export const config: Types.Core.GameConfig = {
     width: '100vw',
